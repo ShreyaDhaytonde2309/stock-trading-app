@@ -1,0 +1,23 @@
+{
+  "name": "stock-trading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.11.2",
+    "axios": "^1.13.6",
+    "chart.js": "^4.5.1",
+    "lucide-react": "^0.577.0",
+    "react-chartjs-2": "^5.3.1",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.13.1",
+    "react-toastify": "^11.0.5"
+  }
+}
